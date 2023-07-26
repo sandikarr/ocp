@@ -6,6 +6,7 @@
 
 <?php
 echo "hello World from test FROM S2I 2nd time "
+echo "this is 2nd version"
 ?>
 
 </body>
