@@ -5,7 +5,7 @@
 <h1>My first PHP page </h1>
 
 <?php
-echo "hello World"
+echo "hello World from test"
 ?>
 
 </body>
